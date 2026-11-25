@@ -1,0 +1,21 @@
+{
+  "validLogin": {
+    "username": "Admin",
+    "password": "admin123"
+  },
+
+  "invalidLogin": {
+    "username": "InvalidUser123",
+    "password": "WrongPassword123"
+  },
+
+  "employeeSearch": {
+    "knownEmployeeName": "James Butler",
+    "nonExistingEmployeeName": "Test Employee 987654"
+  },
+
+  "newEmployee": {
+    "firstName": "Omnia",
+    "lastName": "Tester"
+  }
+}
